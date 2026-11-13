@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2026-10-15T12:32:27.536Z"
+    },
+    {
+      "id": 2,
+      "description": "hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2026-10-15T12:40:27.536Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2026-10-21T13:17:19.572Z",
+      "id": 3
+    },
+    {
+      "description": "pastel",
+      "category": "alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2026-10-21T13:40:40.233Z",
+      "id": 4
+    },
+    {
+      "description": "salgado com coca",
+      "category": "alimentação",
+      "price": 15,
+      "type": "outcome",
+      "createdAt": "2026-10-21T13:48:19.849Z",
+      "id": 5
+    }
+  ]
+}
